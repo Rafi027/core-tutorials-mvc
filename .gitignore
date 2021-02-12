@@ -51,6 +51,7 @@ TestResults/
 ######################
 *.log
 *.sqlite
+MvcMovie.db
 # OS generated files #
 ######################
 .DS_Store?
@@ -73,3 +74,7 @@ _[Ss]cripts
 *.ncrunchsolution
 *.dot[Cc]over
 packages-microsoft-prod.deb
+##############################
+# Templates for code generator
+##############################
+Templates/
